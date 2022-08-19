@@ -1,4 +1,4 @@
-from fae_funcs_and_dict import *
+from fae_funcs import *
 
 # Start player in starting room and provide story
 story()
