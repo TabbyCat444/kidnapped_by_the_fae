@@ -129,7 +129,7 @@ LAYOUT2_DEFS = [
     },
     {
         'name': 'Old Fallen Tree',
-        'exits': {'north': 'Forest River', 'east': 'Huge Fairy Tree'},
+        'exits': {'north': 'Forest River', 'east': 'Weird Silver Trees'},
         'item': 'opal',
     },
     {
@@ -179,7 +179,7 @@ LAYOUT3_DEFS = [
     },
     {
         'name': 'Old Fallen Tree',
-        'exits': {'north': 'Forest River', 'east': 'Huge Fairy Tree'},
+        'exits': {'north': 'Forest River', 'east': 'Small Clearing'},
         'item': 'opal',
     },
     {
@@ -229,7 +229,7 @@ LAYOUT4_DEFS = [
     },
     {
         'name': 'Old Fallen Tree',
-        'exits': {'north': 'Forest River', 'east': 'Huge Fairy Tree'},
+        'exits': {'north': 'Forest River', 'east': 'Bird Nest Shrubs'},
         'item': 'opal',
     },
     {
