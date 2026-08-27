@@ -1,8 +1,6 @@
-from fae_funcs import *
+from game_config import generate_player_map
+from fae_funcs import story, instructions, game_play
 
-# Start player in starting room and provide story
 story()
-
-# Provide movement/exit instructions
 instructions()
 game_play()
